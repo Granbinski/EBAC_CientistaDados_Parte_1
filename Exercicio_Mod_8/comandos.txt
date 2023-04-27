@@ -1,0 +1,6 @@
+Neste módulo, realizei diversas operações utilizando comandos Git, tais como:
+git add
+git commit
+git push
+git status
+Com isso, concluí a primeira parte do curso e o repositório atual. Estou pronto para iniciar a segunda parte do curso e continuar aprimorando minhas habilidades como cientista de dados.
